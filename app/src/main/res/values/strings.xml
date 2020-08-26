@@ -1,0 +1,38 @@
+<resources>
+<string name="app_name">PastaniyeProjeOdevi</string>
+<string name="title">PASTANİYE</string>
+<string name="slogan">HERKES PASTA YESİN DİYE</string>
+<string name="name">Kullanıcı Adı</string>
+<string name="pass">Parola</string>
+<string name="textLogin">Giriş</string>
+<string name="pastasecimi">Seçimi Tamamla</string>
+<string name="textsignup">Üye Ol</string>
+<string name="textforgotpass">Parolamı Unuttum</string>
+<string-array name="month">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+    <item>11</item>
+    <item>12</item>
+</string-array>
+<string-array name="year">
+    <item>2020</item>
+    <item>2021</item>
+    <item>2022</item>
+    <item>2023</item>
+    <item>2024</item>
+    <item>2025</item>
+    <item>2026</item>
+    <item>2027</item>
+    <item>2028</item>
+    <item>2029</item>
+    <item>2030</item>
+</string-array>
+</resources>
